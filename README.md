@@ -1,4 +1,4 @@
-<a href="blanket" href="http://www.web-jackiee.com/works/react/picDrag/index.html">预览地址</a>
+<a href="blanket" href="http://www.web-jackiee.com/works/react/picDrag/index.html">预览地址: http://www.web-jackiee.com/works/react/picDrag/index.html</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
